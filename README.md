@@ -1,4 +1,4 @@
-# Traffic Volume Prediction
+# Leveraging Machine Learning to Better Predict Traffic Density
 
 ## Overview
 This project focuses on predicting traffic volume using advanced machine learning models, including Support Vector Regressor (SVM), XGBoost, Decision Tree, Random Forest, and Recurrent Neural Networks (RNN). The goal is to enhance traffic management and urban planning through accurate and robust traffic volume predictions.
