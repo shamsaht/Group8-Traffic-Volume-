@@ -47,6 +47,11 @@ The project uses the [Metro Interstate Traffic Volume dataset](https://www.kaggl
 - Date and time
 
 ---
+## Pre-Trained Model Weights
+
+The pre-trained weights for the XGBoost Time Series Model can be downloaded here: [Download Pre-Trained Model Weights](https://drive.google.com/file/d/1GyNu3Zoj6QzslR80WtJmGf-qnlr5BdU2/view?usp=drive_link).
+
+---
 
 ## Limitations and Future Work
 ### Limitations:
