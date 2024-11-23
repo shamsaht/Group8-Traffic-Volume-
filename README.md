@@ -30,6 +30,16 @@ In addition to predicting traffic volumes, this project incorporates **Conformal
 
 ---
 
+## Installation Instructions
+
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+
+```
+
+---
+
 ## Dataset
 The project uses the [Metro Interstate Traffic Volume dataset](https://www.kaggle.com/code/xreina8/traffic-volume-prediction/input), which contains 48,204 instances and 9 attributes. The data includes features such as:
 - Traffic volume
