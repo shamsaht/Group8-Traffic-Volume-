@@ -1,1 +1,3 @@
-# ML-Traffic-Density
+
+#Abstract 
+Predicting traffic volume is essential for effective and efficient and effective traffic management and city planning. The project experiments with several models which are  SVM Regressor, XGBoost, Decision Tree, Random Forest, and Recurrent Neural Networks (RNN) to identify the best model for predicting hourly traffic density. The models are evaluated based on the following metrics: MSE, MAE, R², and RMSE. XGBoost was identified to be the most accurate model. Moreover, for the XGBoost, conformal prediction and confidence intervals were to quantify the uncertainty of the prediction predictions; the conformal interval presented better adaptivity and precision.  This results in a more robust and reliable predictive framework. This project highlights the significance of combining predictive accuracy with uncertainty estimation, providing valuable tools for improving traffic management and urban planning.
